@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { 
+    height: 100%;
+    margin: 0;
+ }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.app-login-spinner .mat-spinner circle{
+    stroke: #fff;
+}
+
+.spacer {
+    flex: 1 1 auto;
+}
+
+.spinner {
+    margin:30px auto 0 auto;
+}

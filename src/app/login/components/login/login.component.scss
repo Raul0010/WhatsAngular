@@ -1,0 +1,16 @@
+.login-container{
+    height: 90vh; //usa 90% da tela - verticalmente
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+mat-card{
+    width: 500px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
